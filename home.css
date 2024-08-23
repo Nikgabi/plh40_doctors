@@ -60,6 +60,7 @@ button {
 button:hover {
 	color: rgb(116,120,117);
 	background: rgb(230,237,232);
+	cursor:pointer;
 }
 
 #container {
